@@ -1,0 +1,27 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary / backup
+tmp/
+temp/
+backup/
+backups/
+~$*
+
+# Large generated archives
+*.zip
+*.7z
+*.rar
+
+# Large media files
+*.mp4
+*.mov
+*.avi
+*.mkv
