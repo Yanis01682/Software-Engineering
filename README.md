@@ -14,6 +14,8 @@ The project won **First Prize in the Excellent Course Project Evaluation**.
 
 ![First Prize Certificate](Project/assets/award-first-prize.jpg)
 
+Final presentation deck: [Project/final-presentation.pptx](Project/final-presentation.pptx)
+
 ## Structure
 
 ```text
