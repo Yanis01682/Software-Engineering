@@ -19,6 +19,7 @@ The project won **First Prize in the Excellent Course Project Evaluation**.
 ```text
 .
 ├── Assignments/   # Selected homework answers and original submissions
+├── Lectures/      # Course lecture slides
 └── Project/       # Project award image and related materials
 ```
 
